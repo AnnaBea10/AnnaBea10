@@ -18,7 +18,6 @@
       <img align="center" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       <img align="center" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       <img align="center" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-      <img align="right" src="https://github.com/AnnaBea10/AnnaBea10/assets/108490141/ed57c184-bef0-4f05-b6b7-bd13215d3920"/>
   </div>
 
   ##
