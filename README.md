@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Anna Beatriz
 
-- 🌱 Estudando Java e Kotlin
+- 🌱 Estudando Java
 - 😄 Pronouns: ela/dela
 - ⚡ Fun fact: Eu também desenho, você pode achar no meu Instagram 
 
