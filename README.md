@@ -1,14 +1,14 @@
-### Olá! Eu sou a Anna Beatriz
+# ✋ Olá! Eu sou a Anna Beatriz
 
-- 🌱 Estudando Java
-- 😄 Pronouns: ela/dela
-- ⚡ Fun fact: Eu também desenho, você pode achar no meu Instagram 
+Sou programadora inicialmente e estudante de Análise e densenvolvimento de sistemas.
+
+- ⭐ Minha stack principal é Java, porém também estudo C# e JavaScript.  
+- 😄 Pronouns: Ela/Dela
+- ⚡ Fun fact: Sou apaixonada por idiomas e autodidata na aprendizagem, atualmente falo inglês, francês e estudando alemão!
 
   <div>
   <a href="https://github.com/AnnaBea10">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=AnnaBea10&show_icons=true&theme=dracula">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaBea10&layout=compact">
-  </div>
 
 ##
 
