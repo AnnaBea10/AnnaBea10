@@ -1,8 +1,8 @@
 # ✋ Olá! Eu sou a Anna Beatriz
 
-Sou programadora inicialmente e estudante de Análise e densenvolvimento de sistemas.
+Desenvolvedora back-end e estudante de Análise e densenvolvimento de sistemas.
 
-- ⭐ Minha stack principal é Java, porém também estudo C# e JavaScript.  
+- ⭐ Minha stack principal é Java, porém também estudo C# e Flutter.  
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: Sou apaixonada por idiomas e autodidata na aprendizagem, atualmente falo inglês, francês e estudando alemão!
 
@@ -14,7 +14,7 @@ Sou programadora inicialmente e estudante de Análise e densenvolvimento de sist
 
   <div> 
       <img align="center" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-      <img align="center" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />     
+      <img align="center" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />     
       <img align="center" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       <img align="center" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       <img align="center" height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
