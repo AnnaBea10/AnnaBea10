@@ -4,7 +4,7 @@ Desenvolvedora back-end e estudante de Análise e densenvolvimento de sistemas.
 
 - ⭐ Minha stack principal é Java, porém também estudo C# e Flutter.  
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Sou apaixonada por idiomas e autodidata na aprendizagem, atualmente falo inglês, francês e estudando alemão!
+- ⚡ Fun fact: Sou apaixonada por idiomas e autodidata na aprendizagem, atualmente falo inglês, francês e estudando italiano!
 
   <div>
   <a href="https://github.com/AnnaBea10">
