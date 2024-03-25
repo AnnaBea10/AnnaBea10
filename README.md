@@ -2,9 +2,9 @@
 
 Desenvolvedora back-end | BackEnd Developer
 
-- ⭐ Minha stack principal é Java, mas tenho experiência com C# também. Todavia, por ser curiosa me arrisco com qualquer linguagem/ferramenta 😄.  
+- ⭐ Minha stack principal é Java, mas tenho experiência com C# também. Todavia, por ser curiosa me arrisco com qualquer linguagem/ferramenta!  
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Sou apaixonada por idiomas e autodidata na aprendizagem de idiomas, atualmente meus estudos são focados francês e alemão. E além de estudante, também dou aulas particulares de inglês!
+- ⚡ Fun fact: Sou apaixonada por idiomas e autodidata, atualmente meus estudos são focados francês e alemão. E além de estudante, também dou aulas particulares de inglês!
 
   <div>
   <a href="https://github.com/AnnaBea10">
