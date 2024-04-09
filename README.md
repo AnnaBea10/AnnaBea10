@@ -1,10 +1,24 @@
-# ✋ Olá! Eu sou a Anna Beatriz
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BB00B4&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Anna+Beatriz!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 Desenvolvedora back-end | BackEnd Developer
 
-- ⭐ Minha stack principal é Java, mas tenho experiência com C# também. Todavia, por ser curiosa me arrisco com qualquer linguagem/ferramenta!  
-- 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: Sou apaixonada por idiomas e autodidata, atualmente meus estudos são focados francês e alemão. E além de estudante, também dou aulas particulares de inglês!
+- ⭐ Minhas linguagens principais são Java e C#.   
+- 😄 Tenho interesso pelo Backend e Data Science, por isso estudo e me atualizo sobre essas áreas constantemente!
+- ⚡ Fun fact: Sou apaixonada por idiomas e autodidata, atualmente meus estudos são focados francês e italiano.
+-
+  <div>
+  <h2>Idiomas</h2>
+    <img align="center" height=40 width=50 src="https://github.com/AnnaBea10/AnnaBea10/assets/108490141/180c5864-b180-4386-8fbd-5b845f0b6480" />
+    <img align="center" height=40 width=50 src="https://github.com/AnnaBea10/AnnaBea10/assets/108490141/c8c50d0d-1eb4-45e0-8b78-33fa432c0db5" />
+    <img align="center" height=40 width=50 src="https://github.com/AnnaBea10/AnnaBea10/assets/108490141/aa955fd7-39ba-4367-aa40-f709a9dd0862" />
+</div>
+
+##
+
+<h3 align="left">Connect with me!</h3>
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:pereiradelima938@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/anna-beatriz-lima-8a305a202/)
 
   <div>
   <a href="https://github.com/AnnaBea10">
@@ -22,11 +36,4 @@ Desenvolvedora back-end | BackEnd Developer
       <img align="center" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
       <img align="center" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
       <img align="center" height=40 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-  </div>
-
-  ##
-
-  <div>
-    <a href="mailto: pereiradelima938@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/anna-beatriz-lima-8a305a202/"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   </div>
